@@ -54,8 +54,8 @@
 
 
 <h2>:chart_with_upwards_trend: Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></p>
+<p display="inline"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
+<p display="inline">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></p>
 <!--
 **hectorlopezv/hectorlopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
