@@ -5,9 +5,10 @@ Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hectorlopezv)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-🌱 I’m currently learning **Typescript React SQL**
-💬 Ask me about **C Python**
-📫 How to reach me: **hectorvmlopez@gmail.com**
+  
+<p display="block">🌱 I’m currently learning **Typescript React SQL**</p>
+<p display="block">💬 Ask me about **C Python**</p>
+<p display="block">📫 How to reach me: **hectorvmlopez@gmail.com**</p>
 </div>
 <!--
 **hectorlopezv/hectorlopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
