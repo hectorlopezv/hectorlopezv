@@ -23,7 +23,7 @@
 <h2>:knife:Technologies & Tools</h2>
 
 <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
 </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
