@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 <h3 align="center"Im Hector lopez a electronics engineer from Colombia-Barranquilla with a strong liking to everything related to the web/app development world</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
