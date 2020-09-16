@@ -61,7 +61,9 @@
 </a>
 
 
-
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
 
 <h2>:chart_with_upwards_trend: Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
