@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
-- 🌱 I’m currently learning **Typescript/React/SQL**
-- 💬 Ask me about **C/Python**
+- 🌱 I’m currently learning **Typescript/React**
+- 💬 Ask me about **C/Python/Css/Js**
 
 
 
@@ -48,14 +48,24 @@
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
 </a>
 
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
+</a>
 
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white">
+</a>
 
 
 
 
 <h2>:chart_with_upwards_trend: Github Stats</h2>
-<a"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></a>
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></p>
 <!--
 **hectorlopezv/hectorlopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
