@@ -2,12 +2,16 @@ Hi there 👋
 <h3 align="center"Im Hector lopez a electronics engineer from Colombia-Barranquilla with a strong liking to everything related to the web/app development world</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></p>
 
--🌱 I’m currently learning **Typescript React SQL**
--💬 Ask me about **C Python**
--📫 How to reach me: **hectorvmlopez@gmail.com**
+
+
+- 🌱 I’m currently learning **Typescript React SQL**
+- 💬 Ask me about **C Python**
+- 📫 How to reach me: **hectorvmlopez@gmail.com**
 <!--
 **hectorlopezv/hectorlopezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
