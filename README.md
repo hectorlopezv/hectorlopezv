@@ -1,9 +1,9 @@
-Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center"Im Hector lopez a electronics engineer from Colombia-Barranquilla with a strong liking to everything related to the web/app development world</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
-- 🌱 I’m currently learning **Typescript React SQL**
-- 💬 Ask me about **C Python**
+- 🌱 I’m currently learning **Typescript/React/SQL**
+- 💬 Ask me about **C/Python**
 - 📫 How to reach me: **hectorvmlopez@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
