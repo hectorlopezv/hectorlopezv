@@ -5,7 +5,7 @@ Hi there 👋
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorlopezv&show_icons=true" alt="hectorlopezv" /></p>
 
- -🌱 I’m currently learning **Typescript React SQL**
+-🌱 I’m currently learning **Typescript React SQL**
 -💬 Ask me about **C Python**
 -📫 How to reach me: **hectorvmlopez@gmail.com**
 <!--
