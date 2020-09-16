@@ -21,15 +21,37 @@
 </a>
 
 <h2>:knife:Technologies & Tools</h2>
-<a href="https://www.linkedin.com/in/hector-lopez-258097137" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/hector-lopez-258097137" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/hector-lopez-258097137" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"">
 </a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white">
+</a>
+
+
+
+
+
 
 <h2>:chart_with_upwards_trend: Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezv&layout=compact&hide=html" alt="hectorlopezv" /></p>
