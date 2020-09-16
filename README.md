@@ -16,8 +16,9 @@
 <a href="https://twitter.com/CurlyGalactic">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
 </a>
-<a href="hectorvmlopez@gmail.com">
+<a href="#">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> 
+  hectorvmlopez@gmail.com
 </a>
 
 <h2>:knife:Technologies & Tools</h2>
