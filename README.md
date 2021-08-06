@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
-- 🌱 I’m currently learning **Typescript/React**
-- 💬 Ask me about **C/Python/Css/Js**
+- 🌱 Continuous Learning of **Typescript/React**
+- 💬 Ask me about **C/Python/Css/Js/React.js**
 
 
 
