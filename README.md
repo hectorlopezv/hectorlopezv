@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorlopezv" alt="hectorlopezv" /> </p>
 
-- 🌱 Continuous Learning of **Typescript/React/Next/Go**
+- 🌱 Continuous Learning of **Typescript/Next/Go/GCP**
 - 💬 Ask me about **C/Python/Css/Js/React**
 
 
